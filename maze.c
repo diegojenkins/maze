@@ -5,7 +5,7 @@
 typedef struct {
     int x, y;
 } Point;
-aaaaa
+
 
 int turnLeft(int dir);
 int turnRight(int dir);
